@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\bin\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.exe
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\bin\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.deps.json
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\bin\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.runtimeconfig.json
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\bin\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.runtimeconfig.dev.json
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\bin\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.dll
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\bin\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.pdb
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\obj\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\obj\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\obj\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\obj\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.AssemblyInfo.cs
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\obj\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\obj\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.dll
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\obj\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.pdb
+C:\Users\User\source\repos\ST10090100_PROG6221_part1\obj\Debug\netcoreapp3.1\ST10090100_PROG6221_part1.genruntimeconfig.cache

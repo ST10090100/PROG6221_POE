@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ST10090100_PROG6221_part1/1.0.0": {
+        "runtime": {
+          "ST10090100_PROG6221_part1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ST10090100_PROG6221_part1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
